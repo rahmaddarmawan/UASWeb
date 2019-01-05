@@ -1,0 +1,84 @@
+#container{
+	width : full;
+	font-size :100%;
+	margin : 0 auto;
+}
+
+#header{
+  	padding : 10px;
+    height : 75px;
+    background: #ffffff
+}
+
+ 
+ #topnav {
+    overflow: hidden;
+    background-color: #ec1d23;;
+  }
+  
+  
+  #topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    margin-left: 20px;
+    margin-right:20px;
+    text-decoration: none;
+  }
+  
+
+  #topnav a:hover {
+    background-color: #ffffff;
+    color: black;
+  } 
+
+  #header-primary-cimb-logo {
+
+    float: left;
+    padding: 10px 0 0 20px;
+}
+
+
+#page{
+  background-color: #3f74aa;
+  color: #f2f2f2;
+	margin-top : 10px;
+	margin-left : 10px;
+	padding : 10px;
+	width : 615px;
+	max-width : 615px;
+	float : left;
+}
+
+#pemenang{
+  padding : 30px;
+  text-align : center;
+  color: #f2f2f2;
+  background-color: #3ac289;
+}
+
+#clear{
+	clear : both;
+}
+
+#footer{
+  padding : 10px;
+  height : 50px;
+	margin-top : 10px;
+  text-align : center;
+  color: #f2f2f2;
+  background-color: #000000;
+}
+
+table,th,td {
+  border-collapse: collapse;
+  width: 50%;
+  text-align: left;
+  background-color: #f3cd22
+}
+
+th,td {
+  padding: 5px;
+}
